@@ -5,7 +5,6 @@
 **Fatima Omori**
 [fatima_mayumi@hotmail.com]
 
-'Idade: 50 anos
 
 *Graduada em Ciencias Contabeis*
 <https://www.up.edu.br/>
