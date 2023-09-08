@@ -10,6 +10,7 @@
 *Graduada em Ciencias Contabeis*
 <https://www.up.edu.br/>
 
+
 *Motivo de fazer outra graduacao:
 
 1.Incrementar meu curriculo
