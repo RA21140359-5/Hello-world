@@ -19,6 +19,6 @@
 
 `Tenho 50 anos
 
-Objetivo|Horas|
+Curso|Horas|
 :-------|:------|
 excel avançado|100 hrs|
